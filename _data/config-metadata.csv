@@ -16,3 +16,4 @@ type,Type,,DCTERMS.type
 format original,Medium and Support
 format,Format,,,encodingFormat
 rightsstatement,Copyright,,DCTERMS.rights,license
+dimensions,Dimensions
