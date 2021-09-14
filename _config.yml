@@ -12,7 +12,7 @@ url: https://cdm15730.contentdm.oclc.org
 # path to location on the domain if necessary e.g. /digital/hjccc
 baseurl: 
 # location of code, the full url to your github repository
-source-code: https://github.com/gdo390/pepperdine
+source-code: https://github.com/gdo390/pepp_cdm/tree/weisman
 
 ##########
 # SITE SETTINGS
