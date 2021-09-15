@@ -12,8 +12,7 @@ latitude,Latitude
 longitude,Longitude
 source,Publisher
 identifier,File Name
-type,Type,,DCTERMS.type
-format original,Medium and Support
-format,Format,,,encodingFormat
+medium and support,Medium and Support,true
 rightsstatement,Copyright,,DCTERMS.rights,license
 dimensions,Dimensions
+object type, Object Type,true,
