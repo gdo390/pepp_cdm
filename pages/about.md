@@ -10,9 +10,7 @@ credits: true
 
 {% include feature/jumbotron.html objectid="demo_psychiana565" %}
 
-{% include feature/nav-menu.html sections="About the Collection Builder CDM Skin;About the About Page" %}
-
-## About the Collection Builder CDM Skin
+## About the Weisman Museum of Art Collection
 
 This demo collection features items from the Pepperdine University's [Weisman Museum of Art Collection](https://cdm15730.contentdm.oclc.org/digital/collection/p15730coll35), and is built using [CollectionBuilder-CONTENTdm](https://github.com/CollectionBuilder/collectionbuilder-contentdm).
 
@@ -23,4 +21,4 @@ Items from this collection are digital captures of artwork from Pepperdine Unive
 Visit the [Weisman Museum's website](https://arts.pepperdine.edu/museum/) to learn more about the museum and their current offerings.
 
 <!-- IMPORTANT!!! DELETE everything below this comment (and this comment) when you are finished editing this page for your collection. The included file below includes instructions for inserting features into your about page. They will show up on your collection's about page until you delete it.  -->
-{% include cb/feature_options.md %}
+
