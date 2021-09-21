@@ -1,5 +1,7 @@
 field,display_name
 title,Title
+artist, Artist
 date,Date
-description,Description
-subject,Subjects
+medium and support,Medium and Support
+object type,Object Type
+dimensions,Dimensions
